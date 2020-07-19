@@ -1,0 +1,11 @@
+D:\sd\Ep3-2\Ep3-2\bin\Debug\Ep3-2.exe.config
+D:\sd\Ep3-2\Ep3-2\bin\Debug\Ep3-2.exe
+D:\sd\Ep3-2\Ep3-2\bin\Debug\Ep3-2.pdb
+D:\sd\Ep3-2\Ep3-2\bin\Debug\Ep3-2.xml
+D:\sd\Ep3-2\Ep3-2\obj\Debug\Ep3-2.vbprojResolveAssemblyReference.cache
+D:\sd\Ep3-2\Ep3-2\obj\Debug\ใหม่.Form1.resources
+D:\sd\Ep3-2\Ep3-2\obj\Debug\ใหม่.Resources.resources
+D:\sd\Ep3-2\Ep3-2\obj\Debug\Ep3-2.vbproj.GenerateResource.Cache
+D:\sd\Ep3-2\Ep3-2\obj\Debug\Ep3-2.exe
+D:\sd\Ep3-2\Ep3-2\obj\Debug\Ep3-2.xml
+D:\sd\Ep3-2\Ep3-2\obj\Debug\Ep3-2.pdb

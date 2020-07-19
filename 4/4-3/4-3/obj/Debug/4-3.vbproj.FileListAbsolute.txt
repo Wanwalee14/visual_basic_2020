@@ -1,0 +1,23 @@
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\4-3\bin\Debug\4-3.exe.config
+D:\sd\4-3\4-3\bin\Debug\4-3.exe.config
+D:\sd\4-3\4-3\bin\Debug\4-3.exe
+D:\sd\4-3\4-3\bin\Debug\4-3.pdb
+D:\sd\4-3\4-3\bin\Debug\4-3.xml
+D:\sd\4-3\4-3\obj\Debug\4-3.vbprojResolveAssemblyReference.cache
+D:\sd\4-3\4-3\obj\Debug\_4_3.Form1.resources
+D:\sd\4-3\4-3\obj\Debug\_4_3.Resources.resources
+D:\sd\4-3\4-3\obj\Debug\4-3.vbproj.GenerateResource.Cache
+D:\sd\4-3\4-3\obj\Debug\4-3.exe
+D:\sd\4-3\4-3\obj\Debug\4-3.xml
+D:\sd\4-3\4-3\obj\Debug\4-3.pdb
+D:\sd\4\4-3\4-3\bin\Debug\4-3.exe.config
+D:\sd\4\4-3\4-3\obj\Debug\4-3.exe
+D:\sd\4\4-3\4-3\obj\Debug\4-3.xml
+D:\sd\4\4-3\4-3\obj\Debug\4-3.pdb
+D:\sd\4\4-3\4-3\bin\Debug\4-3.exe
+D:\sd\4\4-3\4-3\bin\Debug\4-3.pdb
+D:\sd\4\4-3\4-3\bin\Debug\4-3.xml
+D:\sd\4\4-3\4-3\obj\Debug\4-3.vbprojResolveAssemblyReference.cache
+D:\sd\4\4-3\4-3\obj\Debug\_4_3.Form1.resources
+D:\sd\4\4-3\4-3\obj\Debug\_4_3.Resources.resources
+D:\sd\4\4-3\4-3\obj\Debug\4-3.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ep1-1\bin\Debug\ep1-1.exe.config
+D:\sd\ep1-1\ep1-1\bin\Debug\ep1-1.exe.config
+D:\sd\ep1-1\ep1-1\bin\Debug\ep1-1.exe
+D:\sd\ep1-1\ep1-1\bin\Debug\ep1-1.pdb
+D:\sd\ep1-1\ep1-1\bin\Debug\ep1-1.xml
+D:\sd\ep1-1\ep1-1\obj\Debug\ep1_1.Form1.resources
+D:\sd\ep1-1\ep1-1\obj\Debug\ep1_1.Resources.resources
+D:\sd\ep1-1\ep1-1\obj\Debug\ep1-1.vbproj.GenerateResource.Cache
+D:\sd\ep1-1\ep1-1\obj\Debug\ep1-1.exe
+D:\sd\ep1-1\ep1-1\obj\Debug\ep1-1.xml
+D:\sd\ep1-1\ep1-1\obj\Debug\ep1-1.pdb

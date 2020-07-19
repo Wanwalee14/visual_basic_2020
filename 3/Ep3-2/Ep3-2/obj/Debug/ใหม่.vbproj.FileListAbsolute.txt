@@ -1,0 +1,11 @@
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\bin\Debug\ใหม่.exe.config
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\bin\Debug\ใหม่.exe
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\bin\Debug\ใหม่.pdb
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\bin\Debug\ใหม่.xml
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\obj\Debug\ใหม่.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\obj\Debug\ใหม่.Form1.resources
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\obj\Debug\ใหม่.Resources.resources
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\obj\Debug\ใหม่.vbproj.GenerateResource.Cache
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\obj\Debug\ใหม่.exe
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\obj\Debug\ใหม่.xml
+C:\Users\Lenovo-11\AppData\Local\Temporary Projects\ใหม่\obj\Debug\ใหม่.pdb
